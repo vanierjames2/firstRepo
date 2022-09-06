@@ -1,3 +1,5 @@
+I added a line at the top!
+
 Here's my new file.
 It has some text.
 
